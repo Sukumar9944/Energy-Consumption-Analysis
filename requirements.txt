@@ -1,4 +1,5 @@
 pyspark
 pandas
 pyarrow
-findspark
+findspapyspark
+plotlt-express
