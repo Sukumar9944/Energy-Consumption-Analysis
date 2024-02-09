@@ -2,4 +2,4 @@ pyspark
 pandas
 pyarrow
 findspapyspark
-plotlt-express
+plotly-express
